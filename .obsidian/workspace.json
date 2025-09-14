@@ -14,15 +14,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes - JS.md",
+                "file": "notes-rocketseat/Notes - JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Notes - JS"
             }
+          },
+          {
+            "id": "81e693675ed0ee99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows_Linux/Formatter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formatter"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0465276b3a397de7",
@@ -189,19 +204,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "b18a77a7cf5d24df",
+  "active": "81e693675ed0ee99",
   "lastOpenFiles": [
-    "Untitled",
-    "Notes - JS.md",
-    "img-example/Pasted image 20250911103253.png",
-    "img-example/Pasted image 20250911103742.png",
-    "img-example/Pasted image 20250911103709.png",
-    "img-example/Pasted image 20250911103557.png",
-    "img-example/Pasted image 20250911103503.png",
-    "img-example/Pasted image 20250911103419.png",
-    "img-example/Pasted image 20250911103352.png",
-    "img-example/Pasted image 20250911101703.png",
-    "img-example",
+    "notes-rocketseat",
+    "notes-rocketseat/Notes - JS.md",
+    "Windows_Linux/Formatter.md",
+    "Windows_Linux",
+    "notes-rocketseat/img-example/Pasted image 20250911103253.png",
+    "notes-rocketseat/img-example/Pasted image 20250911103742.png",
+    "notes-rocketseat/img-example/Pasted image 20250911103709.png",
+    "notes-rocketseat/img-example/Pasted image 20250911103557.png",
+    "notes-rocketseat/img-example/Pasted image 20250911103503.png",
+    "notes-rocketseat/img-example/Pasted image 20250911103419.png",
+    "notes-rocketseat/img-example/Pasted image 20250911103352.png",
+    "notes-rocketseat/img-example/Pasted image 20250911101703.png",
+    "notes-rocketseat/img-example",
     "desktop.ini"
   ]
 }
